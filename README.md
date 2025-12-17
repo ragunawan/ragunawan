@@ -13,6 +13,7 @@ class human:
         self.tools = ['vscode', 'docker', 'vim > emacs']
         self.db = ['oracle', 'postgresql', 'mysql', 'sqlite']
         self.infra = ['gitlab', 'azure']
+        self.interest = ['mlops', 'cybersec']
 
     def say_hi(self):
         print("hello world 👋.")
